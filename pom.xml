@@ -71,6 +71,7 @@
             </plugin>
 
 		</plugins>
+        <finalName>lab2arqui</finalName>
 	</build>
 
 </project>
